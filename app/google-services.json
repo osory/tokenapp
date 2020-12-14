@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665798827083",
+    "project_id": "tokenapp-f32d7",
+    "storage_bucket": "tokenapp-f32d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665798827083:android:856e9648db1d25d1c481ce",
+        "android_client_info": {
+          "package_name": "com.example.tokenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665798827083-7dbdqu0sb45p8kv1bi089tn7uvvhhgjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tokenapp",
+            "certificate_hash": "0723672ef963da037505c67f7929a08981e23dfe"
+          }
+        },
+        {
+          "client_id": "665798827083-ijidi73l6heugkj3lnfhd008qjotqk4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJ3DrD3pM0-FVTs_bLhH2FkONsBHCLKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665798827083-ijidi73l6heugkj3lnfhd008qjotqk4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Traveling Token</string>
+    <string name="qr_code_title">Share your token!</string>
+    <string name="back">Back</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="email_not_verified">Email Not Verified !</string>
+    <string name="verify_now">Verify Now</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="currentToken">Current Token you are carrying</string>
+    <string name="qr_code">QR Code</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="logout">Logout</string>
+    <string name="token_id">Token ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_token">Your Token</string>
+    <string name="token_info">Token Info</string>
+    <string name="current_token_owner">Current Token owner</string>
+    <string name="you_are_not_carrying_any_token">You are not carrying any token!</string>
+    <string name="no_last_known_locations">No last known locations</string>
+</resources>
